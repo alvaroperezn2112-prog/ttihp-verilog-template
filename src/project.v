@@ -14,7 +14,7 @@ module tt_um_AlvaroPerez2112 (
 
 reg [7:0] a = 0, b = 1;
 reg [7:0] fib ;
-assign uo_out = fib
+assign uo_out = fib;
 
 
 always @(posedge clk) begin
