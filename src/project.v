@@ -1,4 +1,4 @@
-module fibonacci_8bit (
+module tt_um_AlvaroPerez2112 (
     input clk,
     output reg [7:0] fib
 );
