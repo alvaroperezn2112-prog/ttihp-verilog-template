@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+El codigo genera la secuencia de Fibonacci, calculando la suma de los dos numeros anteriores de cada numero que salga
 
 ## How to test
 
-Explain how to use your project
+Probar en verilog online
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No ocupa hardware externo
